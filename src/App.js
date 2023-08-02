@@ -119,7 +119,7 @@ function App() {
       //reset
       clearLettesStates();
 
-      setGameStage(stages[1].name);
+      setGameStage(stages[2].name);
     }
 
   }, [guesses]);
